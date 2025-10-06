@@ -38,10 +38,10 @@ Text Input
 ### Model Performance
 | Metric    | Training/Validation | Independent Test Set (33k emails) |
 |-----------|-------------------|---------------------------------|
-| Accuracy  | 93%               | 91%                             |
-| Precision | 91%               | 92%                             |
-| Recall    | 93%               | 91%                             |
-| F1-Score  | 92%               | 92%                             |
+| Accuracy  | 98%               | 91%                             |
+| Precision | 98%               | 92%                             |
+| Recall    | 98%               | 91%                             |
+| F1-Score  | 98%               | 92%                             |
 
 ## Quick Start
 1. Clone this repository:

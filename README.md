@@ -25,7 +25,7 @@ This project implements a deep learning solution for classifying emails as spam 
 - NumPy  
 - Pandas  
 - Matplotlib  
-- NLTK / SpaCy (for text preprocessing)  
+ 
 
 ## Model Architecture
 Text Input  
@@ -86,4 +86,4 @@ This project is open-source and available for educational purposes.
 ## Acknowledgments
 - TensorFlow and Keras teams  
 - Public spam datasets (e.g., Enron)  
-- NLP libraries: NLTK, SpaCy  
+
